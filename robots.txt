@@ -1,4 +1,4 @@
-UUser-agent: *
+User-agent: *
 Disallow:
 
 Sitemap: https://github.com/teenzor/NETdawnload/sitemap.xml
